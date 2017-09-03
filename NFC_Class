@@ -19,7 +19,7 @@ import java.math.BigInteger;
 
 /**
  * Created by manojm on 9/3/2017.
- * THIS CLASS CREATED FOR BACKUP PURPOSE.
+ * THIS CLASS CREATED FOR READING NFC TAGS.
  * HAVE TO ADD THIS PERMISSION TO MANIFEST
  *  --    <uses-permission android:name="android.permission.NFC"/>
     --   <uses-feature android:name="android.hardware.nfc" android:required="true"/>
